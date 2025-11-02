@@ -1,6 +1,7 @@
 <html>
 <body>
-    <h2>Welcome to JNTU Calculator</h2>
+   <h3>New update: Added calculator logic soon!</h3>
+
 </body>
 </html>
 
